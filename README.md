@@ -1,4 +1,4 @@
-# Phần 1 - Giải thích API Mobile (ngắn gọn)
+# Phần 1 - Giải thích API Mobile
 
 ## 1. Hiện tượng
 
